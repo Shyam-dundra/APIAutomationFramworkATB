@@ -3,8 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/shyam/IdeaProjects/APIAutomationFramworkATB">
         <classes>
-        <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow1">
-        </class>
-    </classes>
+            <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow1">
+            </class>
+        </classes>
     </test>
 </suite>
